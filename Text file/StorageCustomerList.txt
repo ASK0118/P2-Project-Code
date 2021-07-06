@@ -1,0 +1,8 @@
+Asd  21  Male  21123  Double storey storage  10  0.0  900.0  
+________
+Asd  21  Male  21123  Double storey storage  20  0.0  1800.0  
+________
+Asd  21  Male  21123  Double storey storage  30  50.0  1650.0  
+________
+Asd  21  Male  21123  Double storey storage  29  0.0  2610.0  
+________

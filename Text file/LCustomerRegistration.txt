@@ -1,0 +1,2 @@
+a  Male  21  taman  123124  Fashion Modern  NIKE, ZARRA  10  m  1500.0  15000.0  
+________

@@ -1,0 +1,18 @@
+Sedan  Toyota, Vios  UUM1111  50  
+________
+Sedan  Honda, Civic  UUM2222  100  
+________
+Sedan  Nissan, Almera  UUM3333  150  
+________
+SUV  Toyota, Harrier  UUM4444  200  
+________
+SUV  Honda, CR-V  UUM5555  250  
+________
+SUV  Nissan, Rogue  UUM6666  300  
+________
+MPV  Toyota, Vellfire  UUM7777  350  
+________
+MPV  Honda, Odssey  UUM8888  400  
+________
+MPV  Nissan, Serena  UUM9999  450  
+________

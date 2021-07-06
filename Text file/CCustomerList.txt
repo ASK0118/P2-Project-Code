@@ -1,0 +1,10 @@
+AHMAD  Male  21  Taman sentosa  0192635473  SUV  Honda, CR-V  Thu Jul 08 22:51:37 SGT 2021  10  UUM5555  125.0  1250.0  
+________
+AHMAD1  Male  22  Taman sentosa  0192635434  Sedan  Nissan, Almera  Tue Jul 20 22:51:37 SGT 2021  4  UUM3333  150.0  600.0  
+________
+Ang  Female  26  Taman perak  0192635123  MPV  Honda, Odssey  Tue Jul 20 22:51:37 SGT 2021  20  UUM8888  200.0  4000.0  
+________
+Ang1  Male  26  Taman emas  0192635123  SUV  Toyota, Harrier  Tue Jul 20 22:51:37 SGT 2021  20  UUM4444  100.0  2000.0  
+________
+Ang  Female  26  Taman perak  0192635123  MPV  Honda, Odssey  Tue Jul 20 22:51:37 SGT 2021  20  UUM8888  200.0  4000.0  
+________

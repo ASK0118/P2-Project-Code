@@ -1,0 +1,4 @@
+Ang  21  Male  012872121  Salesman  1500  
+________
+Ang  21  Male  012872121  Manager  2500  
+________
